@@ -64,9 +64,8 @@ This project's purpose is to practice testing JavaScript using Jest. We wrote a 
  * calculator (factory function with add, subtract, divide and multiply functions)
  * analyze (takes in array and returns object whith properties like average, min, max and length)
 
+Then we proceeded to write tests for these functions.
 
-<br>
-<br>
 
 <!-- ABOUT THE PROJECT -->
 ## Test Locally
