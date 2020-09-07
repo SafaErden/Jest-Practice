@@ -4,8 +4,8 @@
 	"description": "Javascript PROJECT: TESTING PRACTICE",
 	"private": true,
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"build": "webpack"
+		"build": "webpack",
+		"test": "jest"
 	},
 	"repository": {
 		"type": "git",
@@ -19,7 +19,10 @@
 	},
 	"homepage": "https://github.com/SafaErden/Jest-Practice#readme",
 	"devDependencies": {
+		"@babel/preset-env": "^7.11.5",
+		"jest": "^26.4.2",
 		"webpack": "^4.44.1",
 		"webpack-cli": "^3.3.12"
-	}
+	},
+	"dependencies": {}
 }
