@@ -1,0 +1,25 @@
+{
+	"name": "Jest-Practice",
+	"version": "1.0.0",
+	"description": "Javascript PROJECT: TESTING PRACTICE",
+	"private": true,
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "webpack"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SafaErden/Jest-Practice.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/SafaErden/Jest-Practice/issues"
+	},
+	"homepage": "https://github.com/SafaErden/Jest-Practice#readme",
+	"devDependencies": {
+		"webpack": "^4.44.1",
+		"webpack-cli": "^3.3.12"
+	}
+}
