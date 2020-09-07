@@ -15,4 +15,4 @@ const cipher = (string, number) => {
 	return indexes.join('');
 };
 
-console.log(cipher('safA, Phillip!', 2));
+export default cipher;

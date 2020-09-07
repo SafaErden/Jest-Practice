@@ -5,3 +5,5 @@ const calculator = () => {
 	const multiply = (a, b) => a * b;
 	return { add, substract, divide, multiply };
 };
+
+export default calculator;
